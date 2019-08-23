@@ -4,3 +4,4 @@ will try now git reset head
 trying again
 modifying to test
 chrcking out gitreset
+check
